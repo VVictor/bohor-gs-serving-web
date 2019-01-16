@@ -1,9 +1,0 @@
-repository\CardProductInfoRepository.class
-entity\CardOrderMake.class
-hello\Application.class
-repository\CardOrderMakeRepository.class
-entity\CardProductInfo.class
-entity\logistics_info.class
-hello\GreetingController.class
-entity\cardorder_make.class
-entity\card_product_infos.class

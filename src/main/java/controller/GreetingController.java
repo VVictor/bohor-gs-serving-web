@@ -1,4 +1,4 @@
-package hello;
+package controller;
 
 
 import com.alibaba.fastjson.JSONArray;
@@ -15,11 +15,8 @@ import org.springframework.web.bind.annotation.*;
 import repository.CardOrderMakeRepository;
 import repository.CardProductInfoRepository;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 @Controller
 public class GreetingController {
